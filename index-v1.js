@@ -1,7 +1,7 @@
 const util = require('util');
 
 (async () => {
-  const db = require('./db');
+  const db = require('./db-v1');
     const orders = await db.selectOrders();                
     
     for (const [index, order] of orders.entries()) {

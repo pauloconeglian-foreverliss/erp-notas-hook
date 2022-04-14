@@ -1,0 +1,29 @@
+Correções a fazer
+-------------------------------------------------------
+- Adicionar coluna IE na tabela transportadora
+- verificar campo "FATURA/DUPLICATA" - Teria que conter o vencimento e valor total da nota.
+- Adicionar valor total da nota - brindes no campo fatura/duplicata
+- Valores do BRINDE não estão sendo exibidos.
+
+
+Finalizadas
+-------------------------------------------------------
+- Pedido KIT duplicado nota 53480931 ✔
+- Tirar pontuação do CNPJ da transportadora ✔
+- KITS ✔
+- INSC.EST.DO SUBST.TRIBUTÁRIO (Verificar de onde vem essa info.); ✔
+- CREME HIDRATANTE CORPORAL COM ACIDO NCM errado - verificar com João.  ✔
+- Discrepância no peso - verificar. ✔
+- baseCalculo = (( item.price * item.quantity ) / 100 ).toFixed(2); adicionar frete quando existente  ✔
+- Verificar CFOPS para Brindes;  ✔
+- baseCalculo = valor_do_produto * quantidade ✔
+- Valores precisam de pontuação: ✔
+  - baseCalculo ✔
+  - valorUnitario ✔  
+- fonte = "IBPT" ✔
+- Corrigir o que for string e está como inteiro ✔
+- inserir em CMS o napCalcula
+- Informar aliquota icms: 12 ou 7 ✔
+
+
+https://foreverliss.vteximg.com.br/arquivos/foreverliss-favicon-v3.ico

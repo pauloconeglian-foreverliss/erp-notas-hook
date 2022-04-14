@@ -1,7 +1,0 @@
-teste-53480895-v4
-"linkDanfe": "https://api.enotasgw.com.br/file/25363d42-8d68-4eaf-af99-7f775fed0700/0af2ccbb-fc9c-4bab-91f6-61737df10700/2f9a66f9-aa54-4318-a12f-f42b790a0800/pdf",
-"linkDownloadXml": "https://api.enotasgw.com.br/file/25363d42-8d68-4eaf-af99-7f775fed0700/0af2ccbb-fc9c-4bab-91f6-61737df10700/2f9a66f9-aa54-4318-a12f-f42b790a0800/xml",
-
-teste-53480931-v5
-"linkDanfe": "https://api.enotasgw.com.br/file/25363d42-8d68-4eaf-af99-7f775fed0700/0af2ccbb-fc9c-4bab-91f6-61737df10700/6e067519-3762-4495-820a-9248790a0800/pdf",
-"linkDownloadXml": "https://api.enotasgw.com.br/file/25363d42-8d68-4eaf-af99-7f775fed0700/0af2ccbb-fc9c-4bab-91f6-61737df10700/6e067519-3762-4495-820a-9248790a0800/xml",
